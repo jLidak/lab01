@@ -13,6 +13,7 @@ public class Main {
             System.out.println("Siema");
             System.out.println("yo yo yo");
             System.out.println("branch pollub 1");
+            System.out.println("branch pollub 2");
         }
     }
 }
